@@ -1,2 +1,2 @@
-# chrispQT
-Chrisp Chat Qt App for linux.
+# crispQT
+Crisp Chat Qt App for linux.
